@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adrian Laksana</h1>
+<h1 align="center">Hi, I'm Adrian Laksana</h1>
 <h3 align="center">A passionate developer studying Math-CS at the University of California San Diego. I have a strong interest in full stack development and artificial intelligence.</h3>
 
 - 🔭 I’m currently working on **Personal Portfolio**
